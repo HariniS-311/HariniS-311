@@ -38,6 +38,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
 </p>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cool animation" width="300" />
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinis-311&show_icons=true&locale=en&layout=compact" alt="harinis-311" />
