@@ -48,25 +48,27 @@
 ### 📊 GitHub Stats 
 
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
-</p>
+## 🚀 GitHub Activity Snapshot
+
+<div align="center">
+
+<!-- Contribution Snake (cool animation effect) -->
+<img src="https://github.com/HariniS-311/HariniS-311/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="48%" />
 
 <!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
+
+</div>
 
 
 ---
 
-### 🎯 My Motto
-> _"Be the kind of developer your younger self would look up to."_ 💻🌟
+
 
 
