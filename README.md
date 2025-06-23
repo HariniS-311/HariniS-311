@@ -60,6 +60,9 @@
   <img src="https://raw.githubusercontent.com/HariniS-311/HariniS-311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="200" alt="Hi!" />
+</p>
 
 <!-- GitHub Stats and Streak -->
 <div align="center">
