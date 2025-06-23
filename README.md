@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="200" alt="Hi!" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
 </p>
 
 <!-- GitHub Stats and Streak -->
