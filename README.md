@@ -55,11 +55,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinis-311&show_icons=true&locale=en&layout=compact" alt="harinis-311" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&locale=en" alt="harinis-311" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&" alt="harinis-311" /></p>
