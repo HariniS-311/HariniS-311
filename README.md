@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats (Powered by Coffee ☕)
+### 📊 GitHub Stats 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinis-311&show_icons=true&locale=en&layout=compact" alt="harinis-311" />
 </p>
