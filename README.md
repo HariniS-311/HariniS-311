@@ -52,7 +52,7 @@
 
 
 
-## 🚀 GitHub Activity Snapshot
+## 🚀 GitHub Stats
 
 <!-- Typing animation banner -->
 <p align="center">
