@@ -46,13 +46,23 @@
 ---
 
 ### 📊 GitHub Stats 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinis-311&show_icons=true&locale=en&layout=compact" alt="harinis-311" />
+
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&locale=en" alt="harinis-311" /></p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&" alt="harinis-311" /></p>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
 
 ---
 
