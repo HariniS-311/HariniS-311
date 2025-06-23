@@ -45,26 +45,34 @@
 
 ---
 
-### 📊 GitHub Stats 
+
 
 
 ## 🚀 GitHub Activity Snapshot
 
+<!-- Typing animation banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Web+Developer;Learning+Java+and+Frontend;Building+with+Purpose!&center=true&width=500&height=45" alt="Typing SVG" />
+</p>
+
+<!-- Contribution snake animation -->
+<p align="center">
+  <img src="https://github.com/HariniS-311/HariniS-311/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- GitHub Stats and Streak -->
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="48%" alt="GitHub Stats" />
 
-<!-- Contribution Snake (cool animation effect) -->
-<img src="https://github.com/HariniS-311/HariniS-311/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="48%" alt="GitHub Streak" />
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="48%" />
+  <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" alt="Top Languages" />
 
 </div>
+
 
 
 ---
