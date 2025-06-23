@@ -1,4 +1,6 @@
-#<img align="right" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" alt="cool-dev" width="370"/>
+<img align="right" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" alt="cool-dev" width="370"/>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Harini+S.;Aspiring+Web+Developer;Java+%7C+Frontend+%7C+Creative+Thinker" alt="Typing SVG" />
 </p>
