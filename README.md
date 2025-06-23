@@ -59,12 +59,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HariniS-311/HariniS-311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-
-align="left"
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Developer at desk" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Harini+S.;Aspiring+Web+Developer;Java+%7C+Frontend+%7C+Creative+Thinker" alt="Typing SVG" />
 </p>
 
 
