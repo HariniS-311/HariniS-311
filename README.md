@@ -57,8 +57,9 @@
 
 <!-- Contribution snake animation -->
 <p align="center">
-  <img src="https://github.com/HariniS-311/HariniS-311/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HariniS-311/HariniS-311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 <!-- GitHub Stats and Streak -->
 <div align="center">
