@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harini S
 ### Aspiring Web Developer  
-<img src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" width="100%" alt="Web Developer GIF" />
+<img src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966" width="75%" alt="Web Developer GIF" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harinis-311&label=Profile%20views&color=0e75b6&style=flat" alt="harinis-311" /> 
