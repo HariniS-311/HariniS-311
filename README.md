@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=800&color=000000&vCenter=true&width=500&lines=Hi+there!+I'm+Harini+S.;Aspiring+FullStack+Developer;Java+%7C+Frontend+%7C+Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=800&color=0000FF&vCenter=true&width=500&lines=Hi+there!+I'm+Harini+S.;Aspiring+FullStack+Developer;Java+%7C+Frontend+%7C+Creative+Thinker" alt="Typing SVG" />
 </p>
 
 
@@ -64,15 +64,15 @@
 <!-- GitHub Stats and Streak -->
 <div align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="40%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="45%" alt="GitHub Stats" />
 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="40%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="46%" alt="GitHub Streak" />
 
   <br/><br/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinis-311&layout=compact&theme=radical&hide_border=true&border_radius=20" width="45%" alt="Top Languages" />
 
 </div>
 
