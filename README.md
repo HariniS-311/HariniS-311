@@ -65,10 +65,7 @@
 <div align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=harinis-311&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="48%" alt="GitHub Stats" />
-  
-</div>
 
-<div align="right">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinis-311&theme=radical&hide_border=true&border_radius=20" width="48%" alt="GitHub Streak" />
 
