@@ -37,7 +37,6 @@
 </p>
 
 ---
-
 ###  Languages & Tools I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
