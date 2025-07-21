@@ -24,8 +24,8 @@
 - 🎓 Learning something new every day — currently focused on **Java**, **HTML/CSS**, and **SQL**  
 - 🚧 Building small projects to grow into big dreams  
 - 🧠 Open to challenges, internships, and collabs  
-- 📫 Reach me at: **hariniselvam311@gmail.com**  
-- 🌐 Portfolio: [GitHub/HariniS-311](https://github.com/HariniS-311)
+- 📫 Reach me at: **hariniselvam311@gmail.com** ,  http://LinkedIn.com/in/harini-selvam-8b87192
+- 🌐 Portfolio: [https://github.com/HariniS-311]
 
 ---
 
