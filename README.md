@@ -25,7 +25,7 @@
 - 🚧 Building small projects to grow into big dreams  
 - 🧠 Open to challenges, internships, and collabs  
 - 📫 Reach me at: **hariniselvam311@gmail.com**   http://LinkedIn.com/in/harini-selvam-8b87192
-- 🌐 Portfolio: [(https://preview--harinis-311-webdeveloper.lovable.app/)]
+- 🌐 Portfolio: https://preview--harinis-311-webdeveloper.lovable.app/
 
 ---
 
