@@ -12,7 +12,6 @@
 💡 Every line of code is a step closer to the developer I dream of becoming.         
 🛠️ Diving deep into Java and front-end design — one bug at a time.  
 👨‍💻 All of my projects are available at https://github.com/HariniS-311
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harinis-311&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
